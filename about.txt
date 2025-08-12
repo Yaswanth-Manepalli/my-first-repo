@@ -1,3 +1,4 @@
 Name: Manepalli Venkata Yaswanth
 Course: BCA-4
-One thing that learnt about GitHub: We can upload your code into GitHub which is publicly seen by people
+
+One thing that learnt about GitHub: We can upload our code into GitHub which is publicly seen by people
